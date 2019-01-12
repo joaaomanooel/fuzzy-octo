@@ -6,4 +6,6 @@ const app = express();
 app.use(bodyParcer.json());
 app.use(bodyParcer.urlencoded({ extended: true }));
 
+require('./controllers/authControllers')(app);
+
 module.exports = app;
