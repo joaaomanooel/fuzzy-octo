@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const app = require('./src/app');
 
 app.listen(3000, () => {
