@@ -1,11 +1,11 @@
 const mongoose = require('mongoose');
 
 mongoose.connect(
-  'mongodb://fuzzy-octo:fuzzy-octo123@ds225078.mlab.com:25078/fuzzy-octo',
+  'mongodb://fuzzy-octo-api:fuzzy-octo123@ds225078.mlab.com:25078/fuzzy-octo',
   {
     useNewUrlParser: true,
   },
 );
-mongoose.Promise = global.Promise;
+mongoose.set('useCreateIndex', true);
 
 module.exports = mongoose;
