@@ -1,4 +1,4 @@
-# Books API
+# Fuzzy-Octo
 [![Build Status](https://travis-ci.org/joaaomanooel/fuzzy-octo.svg?branch=master)](https://travis-ci.org/joaaomanooel/fuzzy-octo) [![Coverage Status](https://coveralls.io/repos/github/joaaomanooel/fuzzy-octo/badge.svg)](https://coveralls.io/github/joaaomanooel/fuzzy-octo) [![Known Vulnerabilities](https://snyk.io/test/github//joaaomanooel/fuzzy-octo/badge.svg)](https://snyk.io/test/github//joaaomanooel/fuzzy-octo)
 
 ## Contributing
