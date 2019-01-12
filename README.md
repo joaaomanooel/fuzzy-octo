@@ -1,5 +1,5 @@
 # Books API
-[![Build Status](https://travis-ci.org/joaaomanooel/books-api.svg?branch=master)](https://travis-ci.org/joaaomanooel/books-api) [![Coverage Status](https://coveralls.io/repos/github/joaaomanooel/books-api/badge.svg)](https://coveralls.io/github/joaaomanooel/books-api) [![Known Vulnerabilities](https://snyk.io/test/github//joaaomanooel/books-api/badge.svg)](https://snyk.io/test/github//joaaomanooel/books-api)
+[![Build Status](https://travis-ci.org/joaaomanooel/fuzzy-octo.svg?branch=master)](https://travis-ci.org/joaaomanooel/fuzzy-octo) [![Coverage Status](https://coveralls.io/repos/github/joaaomanooel/fuzzy-octo/badge.svg)](https://coveralls.io/github/joaaomanooel/fuzzy-octo) [![Known Vulnerabilities](https://snyk.io/test/github//joaaomanooel/fuzzy-octo/badge.svg)](https://snyk.io/test/github//joaaomanooel/fuzzy-octo)
 
 ## Contributing
 
@@ -7,7 +7,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/joaaomanooel/books-api/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/joaaomanooel/fuzzy-octo/tags).
 
 ## Authors
 
@@ -15,7 +15,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 |:---------------------:|
 |  [João Manoel Neto](https://github.com/joaaomanooel/)   |
 
-See also the list of [contributors](https://github.com/joaaomanooel/books-api/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/joaaomanooel/fuzzy-octo/contributors) who participated in this project.
 
 ## License
 
