@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const authConfig = require('../../config/auth.json');
+const authConfig = require('../../config/auth.js');
 
 // eslint-disable-next-line consistent-return
 module.exports = (req, res, next) => {

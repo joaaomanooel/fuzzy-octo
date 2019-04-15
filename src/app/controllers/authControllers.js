@@ -3,7 +3,7 @@ const express = require('express');
 const jwt = require('jsonwebtoken');
 const crypto = require('crypto');
 
-const authConfig = require('../../config/auth.json');
+const authConfig = require('../../config/auth.js');
 const mailer = require('../../modules/mailer');
 const User = require('../models/user');
 
