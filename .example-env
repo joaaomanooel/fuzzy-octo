@@ -1,0 +1,12 @@
+# Main
+PORT=
+DB_URL=
+
+# Mail
+MAIL_HOST=
+MAIL_PORT=
+MAIL_USER=
+MAIL_PASS=
+
+# JWT
+SECRET_JWT=
