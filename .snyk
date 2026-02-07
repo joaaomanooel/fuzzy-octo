@@ -5,11 +5,11 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-567746:
     - mongoose > async > lodash:
-        patched: '2026-01-17T15:20:15.273Z'
+        patched: '2026-02-07T11:46:11.531Z'
         id: SNYK-JS-LODASH-567746
         path: mongoose > async > lodash
     - nodemailer-express-handlebars > express-handlebars > handlebars > async > lodash:
-        patched: '2026-01-17T15:20:15.273Z'
+        patched: '2026-02-07T11:46:11.531Z'
         id: SNYK-JS-LODASH-567746
         path: >-
           nodemailer-express-handlebars > express-handlebars > handlebars >
