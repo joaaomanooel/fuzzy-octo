@@ -1,0 +1,16 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - mongoose > async > lodash:
+        patched: '2026-02-07T11:08:19.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: mongoose > async > lodash
+    - nodemailer-express-handlebars > express-handlebars > handlebars > async > lodash:
+        patched: '2026-02-07T11:08:19.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          nodemailer-express-handlebars > express-handlebars > handlebars >
+          async > lodash
